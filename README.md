@@ -64,8 +64,8 @@ src/main/java/com/forumhub/yudi
    git clone [https://github.com/OyudiF/ForumHub.git](https://github.com/OyudiF/ForumHub.git)
    ```
 2. **Configure o Banco de Dados:**
-  -Crie um banco de dados no MySQL chamado forumhub_api.
-  -No arquivo `src/main/resources/application.yml`, configure suas credenciais:
+  - Crie um banco de dados no MySQL chamado forumhub_api.
+  - No arquivo `src/main/resources/application.yml`, configure suas credenciais:
      ```yaml
      spring:
        datasource:
